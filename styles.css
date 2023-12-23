@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-image: url('https://lh3.googleusercontent.com/pw/ABLVV86TRR2URXk1vFwI-4fO0XCDgYLv_3czi6MPXZw4fd2UO9vVL2V04HAG86gV4HmAdrI4L7_k8RvPqRk0dFqoS4mb_rrCiy8cjnt-B9Lm15_Ov-_oLy4v=w2400');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+h1 {
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bold-uppercase {
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  .pokemon-image {
+    width: 200px; 
+  height: 200px;
+  }
+  .pokemon-card {
+    max-width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: white;
+  }
+  #pokemonContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; 
+    height: 100vh; 
+  }

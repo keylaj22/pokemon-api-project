@@ -9,7 +9,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/keylaj22/Gotta-Fetch-Em-All-project">
+  <a href="https://github.com/keylaj22/final-api-project">
   </a>
 
 <h3 align="center">project_title</h3>
@@ -17,7 +17,7 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/keylaj22/Gotta-Fetch-Em-All-project"><strong>Explore the docs »</strong></a>
+    <a href=" https://github.com/keylaj22/final-api-project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -56,9 +56,9 @@
 
 ## About The Project
 
-[![10 Pokemon finder ]](https://lh3.googleusercontent.com/pw/ADCreHdH-MIzgmAN0igxzIy0ZYRLTcQm0ftkb4iKIF5EB9f1xaU5HY7R4MKYp9s4nZ2Y8jdq8KxqBolgP0ELOgZ2_edseSkBaBEIs42yj9RDP1EmqQ4871xM=w2400)
+[![10 Pokemon filtering tool ]](https://lh3.googleusercontent.com/pw/ABLVV86QC5EcRAOqNkRYriwvbLeaELwrRYYeFx5NeTwokEr44Z-oTJDmrUNPkSVBFsoLjS8BudMYpL3z8HPY23FqgJUmBcBf-uabM-txyRBaZEa4bp07L1r4=w2400)
 
-`gitbhub-username:keylaj22`, `repo_name:Gotta Fetch 'Em All! project`,  `linkedin_username:https://www.linkedin.com/in/keyla-jimenez-95077a144/`,  `email:keylaljm@hotmail.com`, `project_title:Gotta Fetch 'Em All! project`, `project_description: This project fetch 10 pokemons names in the html file from the Poke API`.
+`gitbhub-username:keylaj22`, `repo_name:Gotta Fetch 'Em All! project`,  `linkedin_username:https://www.linkedin.com/in/keyla-jimenez-95077a144/`,  `email:keylaljm@hotmail.com`, `project_title: 'final-api-project`, `project_description: This project fetch 10 pokemons names and images and filters these pokemons by weight and height`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,8 +77,7 @@
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get started you first need to create a vietproject using:npm create vote@latest,second: you need to select the framework which is Vanilla, third:you need to select the variant which is Javascript,last,but not least:you need to run the commands cd poke-api,npm install and npm run dev, and you are all set!.
 
 ### Prerequisites
 
@@ -86,11 +85,14 @@ This is an example of how to list things you need to use the software and how to
 * npm
   ```sh
   npm install npm@latest -g
-  ```
+  *vite
+  ```sh
+  npm install vite@latest
+
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at (https://example.com)
 2. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
@@ -111,7 +113,7 @@ This is an example of how to list things you need to use the software and how to
 
 ## Usage
 
-This project can be used to do an interactive pokemon game or to create a pokedex with the names and info of each pokemon.
+This project can be used to do an interactive pokemon game or to create a pokedex with the names and info of each pokemon, and know the weight and height of a pokemon.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -164,7 +166,7 @@ No license.
 
 Keyla Jimenez - keylaljm@hotmail.com
 
-Project Link: [https://github.com/keylaj22/Gotta-Fetch-Em-All-project]
+Project Link: [https://github.com/keylaj22/final-api-project]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,3 +176,4 @@ Project Link: [https://github.com/keylaj22/Gotta-Fetch-Em-All-project]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+# final-api-project
